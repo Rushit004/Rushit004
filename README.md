@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hey! I'm **Rushit Tholiya**, a 2nd year **B.Tech CSE student at Nirma University, Ahmedabad** 🎓
+I'm a 2nd year **B.Tech CSE student at Nirma University, Ahmedabad** 🎓
 
 A college course got me into data science — and I never really looked back. I'm someone who Googles everything until it clicks 😄, works best in structured time, and gets most excited by that moment when a model *actually starts working*.
 
