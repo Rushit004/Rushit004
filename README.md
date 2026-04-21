@@ -4,10 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushit-tholiya-605341311)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rushittholiya)
-[![GitHub followers](https://img.shields.io/github/followers/Rushit004?style=for-the-badge&color=e94560&labelColor=1a1a2e)](https://github.com/Rushit004)
-![Profile Views](https://komarev.com/ghpvc/?username=Rushit004&style=for-the-badge&color=e94560)
+
 
 </div>
 
