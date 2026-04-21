@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Hey%2C%20I'm%20Rushit!%20%F0%9F%91%8B&fontSize=52&fontColor=e94560&fontAlignY=40&desc=Data%20Science%20Learner%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Builder%20in%20Progress&descSize=17&descAlignY=62&descColor=a8b2d8" width="100%"/>
 
-<br/>
-
 
 
 </div>
@@ -14,20 +12,20 @@
 
 I'm a 2nd year **B.Tech CSE student at Nirma University, Ahmedabad** 🎓
 
-A college course got me into data science — and I never really looked back. I'm someone who don't move on until something genuinely clicks 😄, works best in structured time, and gets most excited by that moment when a model *actually starts working*.
+A college course introduced me to data science — and I haven’t looked back since. I’m someone who doesn’t move on until I truly understand how something works. I perform best in structured environments and enjoy the moment when a model actually starts working.
 
-Right now I'm building my skills one structured step at a time, with my eyes set on eventually building my own **data-driven product** that solves a real problem at scale 🌍
+Right now, I’m building my skills step-by-step with a long-term goal of creating a **data-driven product** that solves real-world problems at scale 🌍
 
-When I'm not in a Jupyter notebook, you'll find me gaming. 🎮
+When I'm not working in Jupyter notebooks, I enjoy gaming 🎮
 
 ---
 
 ## 🔥 What I'm Working On
 
-- 🏥 Building toward a **hospital resource-usage dashboard** — healthcare data that actually helps
-- 📊 Deepening my skills in **Machine Learning & Model Building**
-- 🏆 Getting into my first **Kaggle competitions**
-- 📚 Documenting everything on GitHub so I can look back and see how far I've come
+- 🏥 Building a **hospital resource-usage dashboard** — healthcare data that actually helps
+- 📊 Strengthening my skills in **Machine Learning & Model Building**
+- 🏆 Preparing for my first **Kaggle competitions**
+- 📚 Documenting everything on GitHub to track my progress
 
 ---
 
@@ -56,29 +54,38 @@ When I'm not in a Jupyter notebook, you'll find me gaming. 🎮
 ## 📂 Featured Projects
 
 ### 🧠 [Data Science Journey — CampusX](https://github.com/Rushit004/data-science-journey-campusx)
-> Structured Jupyter notebooks documenting my full data science learning path — Python fundamentals, NumPy, Pandas, data visualisation, and machine learning. Built to learn, kept to remember.
+> Structured Jupyter notebooks documenting my full data science learning path — Python fundamentals, NumPy, Pandas, data visualisation, and machine learning.
 
 `python` `numpy` `pandas` `machine-learning` `jupyter`
 
 ---
 
 ### 📊 [Excel Data Analysis Portfolio](https://github.com/Rushit004/excel-data-analysis-portfolio)
-> Hands-on projects using real-world datasets — data cleaning, pivot tables, and dashboards. Proof that a good visualisation tells the story better than any paragraph.
+> Hands-on projects using real-world datasets — data cleaning, pivot tables, and dashboards.
 
 `excel` `data-analysis` `dashboards` `data-cleaning`
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rushit004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushit004&layout=compact&theme=tokyonight&hide_border=true" />
+[![Rushit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rushit004&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_bypass=999)](https://github.com/Rushit004)
+&nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rushit004&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&cache_bypass=999)](https://github.com/Rushit004)
 
-<br/>
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rushit004&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/Rushit004">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushit004&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Rushit004">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushit004&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+</a>
 
 </div>
 
@@ -86,27 +93,27 @@ When I'm not in a Jupyter notebook, you'll find me gaming. 🎮
 
 ## 🎯 Goals for 2026
 
-- [ ] 🏆 Submit to my first Kaggle competition
-- [ ] 🏥 Complete a healthcare ML project end-to-end
-- [ ] 📈 Grow my GitHub to 10+ meaningful repos
-- [ ] 🤝 Collaborate on an open-source data project
-- [ ] 🚀 Start working toward a data-driven product idea
+- [ ] 🏆 Participate in my first Kaggle competition  
+- [ ] 🏥 Complete an end-to-end healthcare ML project  
+- [ ] 📈 Build 10+ meaningful GitHub repositories  
+- [ ] 🤝 Contribute to an open-source data project  
+- [ ] 🚀 Start working on a data-driven product  
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🎮 When I'm away from screens? Gaming — full reset mode
-- 🔍 Stuck on a problem?  I figure things out the old-fashioned way — searching, reading, experimenting, until it makes sense.
-- 💡 My favourite moment in data science? When the visualisation looks *exactly* how I imagined it
-- 🧠 Biggest challenge right now? Communicating findings to non-technical people — working on it!
-- 🌍 Dream? Work on global-scale products that actually help people
+- 🎮 Gaming is my reset mode  
+- 🔍 I learn by experimenting until things click  
+- 💡 I enjoy when visualizations match exactly what I imagined  
+- 🧠 Currently improving my ability to explain insights to non-technical people  
+- 🌍 I aim to work on products that create real impact  
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always open to connecting with fellow learners, data enthusiasts, or anyone building cool things 👇
+I'm always open to connecting with learners, builders, and data enthusiasts 👇
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushit-tholiya-605341311)
 [![Kaggle](https://img.shields.io/badge/Find_me_on_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rushittholiya)
