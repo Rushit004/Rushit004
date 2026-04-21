@@ -17,11 +17,11 @@
 
 I'm a 2nd year **B.Tech CSE student at Nirma University, Ahmedabad** 🎓
 
-A college course got me into data science — and I never really looked back. I'm someone who Googles everything until it clicks 😄, works best in structured time, and gets most excited by that moment when a model *actually starts working*.
+A college course got me into data science — and I never really looked back. I'm someone who don't move on until something genuinely clicks 😄, works best in structured time, and gets most excited by that moment when a model *actually starts working*.
 
 Right now I'm building my skills one structured step at a time, with my eyes set on eventually building my own **data-driven product** that solves a real problem at scale 🌍
 
-> 💬 *"The best way to learn is to finish something — even if it's messy."*
+When I'm not in a Jupyter notebook, you'll find me gaming. 🎮
 
 ---
 
@@ -100,7 +100,7 @@ Right now I'm building my skills one structured step at a time, with my eyes set
 ## ⚡ Fun Facts
 
 - 🎮 When I'm away from screens? Gaming — full reset mode
-- 🔍 Stuck on a problem? I Google everything until something clicks
+- 🔍 Stuck on a problem?  I figure things out the old-fashioned way — searching, reading, experimenting, until it makes sense.
 - 💡 My favourite moment in data science? When the visualisation looks *exactly* how I imagined it
 - 🧠 Biggest challenge right now? Communicating findings to non-technical people — working on it!
 - 🌍 Dream? Work on global-scale products that actually help people
