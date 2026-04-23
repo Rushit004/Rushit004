@@ -51,24 +51,16 @@ When I'm not working in Jupyter notebooks, I enjoy gaming 🎮
 
 ---
 
-## 📂 Featured Projects
+## 🧭 Navigation System of Repositories 
 
-### 🧠 [Data Science Journey — CampusX](https://github.com/Rushit004/data-science-journey-campusx)
-> Structured Jupyter notebooks documenting my full data science learning path — Python fundamentals, NumPy, Pandas, data visualisation, and machine learning.
+| Zone | Meaning | Access |
+|------|---------|--------|
+| ⚡ **Skill Forge** | Learning tools, concepts, and technologies | [Growth Journey](#) |
+| 🧪 **Innovation Lab** | College assignments turned into real systems | [Academic Builds](#) |
+| 📊 **Data Arena** | Dashboards, analytics, visual storytelling | [Insights](#) |
+| 🚀 **LaunchPad** | Premium resume-worthy projects | [Portfolio](#) |
 
-`python` `numpy` `pandas` `machine-learning` `jupyter`
-
----
-
-### 📊 [Excel Data Analysis Portfolio](https://github.com/Rushit004/excel-data-analysis-portfolio)
-> Hands-on projects using real-world datasets — data cleaning, pivot tables, and dashboards.
-
-`excel` `data-analysis` `dashboards` `data-cleaning`
-
----
-
-## 📊 GitHub Analytics
-
+> _Each repo is tagged with its zone — browse by what you're looking for._
 <div align="center">
 
 [![Rushit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rushit004&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_bypass=999)](https://github.com/Rushit004)
