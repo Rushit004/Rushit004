@@ -56,9 +56,9 @@ When I'm not working in Jupyter notebooks, I enjoy gaming 🎮
 | Zone | Meaning | Access |
 |------|---------|--------|
 | ⚡ **Skill Forge** | Learning tools, concepts, and technologies | [Growth Journey](https://github.com/Rushit004/README-skill-forge.git) |
-| 🧪 **Innovation Lab** | College assignments turned into real systems | [Academic Builds](#) |
-| 📊 **Data Arena** | Dashboards, analytics, visual storytelling | [Insights](#) |
-| 🚀 **LaunchPad** | Premium resume-worthy projects | [Portfolio](#) |
+| 🧪 **Innovation Lab** | College assignments turned into real systems | [Academic Builds](https://github.com/Rushit004/README-innovation-lab) |
+| 📊 **Data Arena** | Dashboards, analytics, visual storytelling | [Insights](https://github.com/Rushit004/README-data-arena) |
+| 🚀 **LaunchPad** | Premium resume-worthy projects | [Portfolio](https://github.com/Rushit004/README-launchpad) |
 
 > _Each repo is tagged with its zone — browse by what you're looking for._
 <div align="center">
