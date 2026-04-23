@@ -55,7 +55,7 @@ When I'm not working in Jupyter notebooks, I enjoy gaming 🎮
 
 | Zone | Meaning | Access |
 |------|---------|--------|
-| ⚡ **Skill Forge** | Learning tools, concepts, and technologies | [Growth Journey](#) |
+| ⚡ **Skill Forge** | Learning tools, concepts, and technologies | [Growth Journey](https://github.com/Rushit004/README-skill-forge.git) |
 | 🧪 **Innovation Lab** | College assignments turned into real systems | [Academic Builds](#) |
 | 📊 **Data Arena** | Dashboards, analytics, visual storytelling | [Insights](#) |
 | 🚀 **LaunchPad** | Premium resume-worthy projects | [Portfolio](#) |
