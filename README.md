@@ -22,7 +22,6 @@ When I'm not working in Jupyter notebooks, I enjoy gaming 🎮
 
 ## 🔥 What I'm Working On
 
-- 🏥 Building a **hospital resource-usage dashboard** — healthcare data that actually helps
 - 📊 Strengthening my skills in **Machine Learning & Model Building**
 - 🏆 Preparing for my first **Kaggle competitions**
 - 📚 Documenting everything on GitHub to track my progress
@@ -86,7 +85,6 @@ When I'm not working in Jupyter notebooks, I enjoy gaming 🎮
 ## 🎯 Goals for 2026
 
 - [ ] 🏆 Participate in my first Kaggle competition  
-- [ ] 🏥 Complete an end-to-end healthcare ML project  
 - [ ] 📈 Build 10+ meaningful GitHub repositories  
 - [ ] 🤝 Contribute to an open-source data project  
 - [ ] 🚀 Start working on a data-driven product  
