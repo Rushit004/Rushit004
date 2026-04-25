@@ -114,7 +114,6 @@ I'm always open to connecting with learners, builders, and data enthusiasts 👇
 
 <div align="center">
 
-*Imposter syndrome is just competence outpacing confidence. Keep going. 🚀*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
 
