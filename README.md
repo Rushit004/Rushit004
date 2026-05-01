@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Hey%2C%20I'm%20Rushit!%20%F0%9F%91%8B&fontSize=52&fontColor=e94560&fontAlignY=40&desc=Data%20Science%20Learner%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Builder%20in%20Progress&descSize=17&descAlignY=62&descColor=a8b2d8" width="100%"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b27,100:0d1117&height=180&section=header&text=Rushit%20Tholiya&fontSize=48&fontColor=58a6ff&fontAlignY=42&desc=Learning%20Data%20Science%20%E2%80%A2%20Nirma%20University&descSize=15&descAlignY=65&descColor=8b949e" width="100%"/>
 
 </div>
+
 
 ---
 
