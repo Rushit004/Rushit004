@@ -49,16 +49,22 @@ When I'm not working in Jupyter notebooks, I enjoy gaming 🎮
 
 ---
 
-## 🧭 Navigation System of Repositories 
 
-| Zone | Meaning | Access |
-|------|---------|--------|
-| ⚡ **Skill Forge** | Learning tools, concepts, and technologies | [Growth Journey](https://github.com/Rushit004/README-skill-forge) |
-| 🧪 **Innovation Lab** | College assignments turned into real systems | [Academic Builds](https://github.com/Rushit004/README-innovation-lab) |
-| 📊 **Data Arena** | Dashboards, analytics, visual storytelling | [Insights](https://github.com/Rushit004/README-data-arena) |
-| 🚀 **LaunchPad** | Premium resume-worthy projects | [Portfolio](https://github.com/Rushit004/README-launchpad) |
+## Repository Map
+
+| Zone | What's Inside | Link |
+|------|--------------|------|
+| ⚡ **Skill Forge** | Concepts I'm learning, tools I'm practicing | [View](https://github.com/Rushit004/README-skill-forge) |
+| 🧪 **Innovation Lab** | College work rebuilt into something real | [View](https://github.com/Rushit004/README-innovation-lab) |
+| 📊 **Data Arena** | EDA notebooks, visualizations, datasets | [View](https://github.com/Rushit004/README-data-arena) |
+| 🚀 **LaunchPad** | Stuff I finished | [View](https://github.com/Rushit004/README-launchpad) |
+
+
 
 > _Each repo is tagged with its zone — browse by what you're looking for._
+
+---
+
 <div align="center">
 
 [![Rushit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rushit004&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_bypass=999)](https://github.com/Rushit004)
