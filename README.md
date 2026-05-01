@@ -4,7 +4,6 @@
 
 </div>
 
-
 ---
 
 ## 🙋‍♂️ About Me
@@ -67,21 +66,13 @@ When I'm not working in Jupyter notebooks, I enjoy gaming 🎮
 
 <div align="center">
 
-[![Rushit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rushit004&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_bypass=999)](https://github.com/Rushit004)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rushit004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true)](https://github.com/Rushit004)
 &nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rushit004&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&cache_bypass=999)](https://github.com/Rushit004)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rushit004&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6)](https://github.com/Rushit004)
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/Rushit004">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushit004&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Rushit004">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushit004&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rushit004&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://github.com/Rushit004)
 
 </div>
 
