@@ -72,7 +72,6 @@ When I'm not working in Jupyter notebooks, I enjoy gaming 🎮
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rushit004&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://github.com/Rushit004)
 
 </div>
 
