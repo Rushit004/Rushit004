@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b27,100:0d1117&height=180&section=header&text=Rushit%20Tholiya&fontSize=48&fontColor=58a6ff&fontAlignY=42" width="100%"/>
-
-</div>
 
 2nd year B.Tech CSE @ Nirma University — learning by rebuilding everything myself.  
 15+ projects across ML, SQL, Java, and systems programming — organized into zones below.
@@ -18,7 +14,15 @@
 
 > _Each repo is tagged with its zone — browse by what you're looking for._
 
----
+## 📊 GitHub Impact
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rushit004&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rushit004&theme=github_dark" />
+
+</div>
 
 ## 🤝 Let's Connect!
 
