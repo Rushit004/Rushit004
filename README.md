@@ -1,53 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b27,100:0d1117&height=180&section=header&text=Rushit%20Tholiya&fontSize=48&fontColor=58a6ff&fontAlignY=42&desc=Learning%20Data%20Science%20%E2%80%A2%20Nirma%20University&descSize=15&descAlignY=65&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b27,100:0d1117&height=180&section=header&text=Rushit%20Tholiya&fontSize=48&fontColor=58a6ff&fontAlignY=42" width="100%"/>
 
 </div>
 
----
-
-## 🙋‍♂️ About Me
-
-I'm a 2nd year **B.Tech CSE student at Nirma University, Ahmedabad** 🎓
-
-A college course introduced me to data science — and I haven’t looked back since. I’m someone who doesn’t move on until I truly understand how something works. I perform best in structured environments and enjoy the moment when a model actually starts working.
-
-Right now, I’m building my skills step-by-step with a long-term goal of creating a **data-driven product** that solves real-world problems at scale 🌍
-
-When I'm not working in Jupyter notebooks, I enjoy gaming 🎮
-
----
-
-## 🔥 What I'm Working On
-
-- 📊 Strengthening my skills in **Machine Learning & Model Building**
-- 🏆 Preparing for my first **Kaggle competitions**
-- 📚 Documenting everything on GitHub to track my progress
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Libraries**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-
-**Tools & Platforms**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
+2nd year B.Tech CSE @ Nirma University — learning by rebuilding everything myself.  
+15+ projects across ML, SQL, Java, and systems programming — organized into zones below.
 
 ## Repository Map
 
@@ -58,41 +16,7 @@ When I'm not working in Jupyter notebooks, I enjoy gaming 🎮
 | 📊 **Data Arena** | EDA notebooks, visualizations, datasets | [View](https://github.com/Rushit004/README-data-arena) |
 | 🚀 **LaunchPad** | Stuff I finished | [View](https://github.com/Rushit004/README-launchpad) |
 
-
-
 > _Each repo is tagged with its zone — browse by what you're looking for._
-
----
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rushit004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true)](https://github.com/Rushit004)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rushit004&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6)](https://github.com/Rushit004)
-
-<br/>
-
-
-</div>
-
----
-
-## 🎯 Goals for 2026
-
-- [ ] 🏆 Participate in my first Kaggle competition  
-- [ ] 📈 Build 20+ meaningful GitHub repositories  
-- [ ] 🤝 Contribute to an open-source data project  
-- [ ] 🚀 Start working on a data-driven product  
-
----
-
-## ⚡ Fun Facts
-
-- 🎮 Gaming is my reset mode  
-- 🔍 I learn by experimenting until things click  
-- 💡 I enjoy when visualizations match exactly what I imagined  
-- 🧠 Currently improving my ability to explain insights to non-technical people  
-- 🌍 I aim to work on products that create real impact  
 
 ---
 
@@ -107,7 +31,6 @@ I'm always open to connecting with learners, builders, and data enthusiasts 👇
 
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b27,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
