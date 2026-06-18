@@ -30,11 +30,3 @@ I'm always open to connecting with learners, builders, and data enthusiasts 👇
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushit-tholiya-605341311)
 [![Kaggle](https://img.shields.io/badge/Find_me_on_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rushittholiya)
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b27,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>
