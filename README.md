@@ -1,6 +1,6 @@
 
 
-2nd year B.Tech CSE @ Nirma University — learning by rebuilding everything myself.  
+3rd year B.Tech CSE @ Nirma University — learning by rebuilding everything myself.  
 15+ projects across ML, SQL, Java, and systems programming — organized into zones below.
 
 ## Repository Map
